@@ -1,0 +1,5 @@
+A extends B -> A copil al clasei B , CLASE ,  relatie mai puternica
+A implements B -> A copil al interfetei B , INTERFATA , relatie mai slaba
+A extends B implements C,D,E.
+
+A extends B , A interfata, B interfata

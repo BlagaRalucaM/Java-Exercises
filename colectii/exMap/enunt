@@ -1,0 +1,17 @@
+o lista cu nume de elevi dintr un catalog. Cu cat cineva apare mai des, cu atat va fi pedepsit mai aspru
+trebuie sa gasim elevul care trebuie pedepsit cel mai aspru si elevul pedepsit cel mai usor
+[x2, x3, x1, x5, x7, x3, x5, x1, x1].
+ordonam descrescator dupa nr de aparitii ( valoare ).
+Map<String, Integer>. key -  numele elevului, v - nr de aparitii
+       x1 - 3, x2 - 1, x3 - 2 etc..
+
+
+o lista de stringuri X:
+X = ["spede" , " speed", "abs" , "speeed", "dsped" , "dspe"]
+si un stringmatcher Y = speed
+sa se gaseasca toate stringurile din X care au aceleasi litere ca Y
+
+
+se da un map care are ca si cheie un nume de elev si ca si val o lista de materii
+unde materie este un ob care contine numele materiei si nota
+vrem sa obtinem toate materiile elevului X dat ca parametru la care a luat o nota Y.

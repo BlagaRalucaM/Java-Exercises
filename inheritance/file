@@ -1,0 +1,18 @@
+FormaGeometrica -> Cerc -> Semicerc -> ...................... -> X
+                -> Patrat
+                -> Triunghi
+                -> Dreptunghi
+
+                JAVA este single-inheritance
+                O clasa poate avea oricati copii
+                O clasa nu poate avea mai multi parinti
+Animal  -> Caine
+        -> Pisica
+        -> Hamster
+
+        default -> same package
+        protected -> default ( same package + ierarhie(inheritance)
+
+
+Parinte -> Copil IS-A -> Relatie intre copil si parinte
+                    HAS-A -> Relatie intre clasa si fielduri

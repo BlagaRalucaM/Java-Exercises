@@ -1,0 +1,3 @@
+Se da un map cu chei CNP si val va fi o lista de locuinte ( adresa, sup, an constructie )
+1. o metoda care gaseste toti oamenii care nu au locuinte -> o lista de cnp uri
+2. vrem sa luam cea mai veche locuinta a omului cu cnp X dat ca parametru

@@ -1,0 +1,3 @@
+se da o lista de tip masina si vrem sa eliminam dupliicatele din lista de masini returnand o colectie de masini unice
+se dau 2 liste, vrem concatenarea fara duplicate
+se da o lista de elem intregi si vrem sa vedem care este primul elem care apare de 2 sau mai multe ori

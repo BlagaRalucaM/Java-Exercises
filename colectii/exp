@@ -1,0 +1,27 @@
+LIFO -> LAST IN FIRST OUT - Stack
+1 2 3 4 5 6
+
+FIFO -> FIRST IN FIRST OUT - Queue
+1 2 3 4 5
+messaging Q ( Queue)
+
+Iterable -> Collection  -> List -> LinkedList
+                               -> ArrayList
+                               -> Vector -> Stack
+                               -> UnmodifiableList
+                        -> Set -> HashSet
+                               -> TreeSet
+                               -> LinkedHashSet
+                        -> Map  -> HashMap
+                                -> TreeMap
+                                -> LinkedHashMap
+
+                                map (cheie , valoare)
+                                cnp -> nume
+                                21312512132 -> AB
+
+                                nr telefon -> nume
+                                07231321321 -> Ionut
+                                1243123123 -> Adrian
+
+

@@ -1,0 +1,7 @@
+avem 3 companii; fiecare companie va avea angajati
+enunturi:
+1. gasim toti angajatii companiei X din departamentul Y
+2. gasim toate companiile care au peste 2 angajati
+3. gasim toate companiile care au fost infiintate dupa 2000 ( vom returna numele lor )
+4. verificam daca toate companiile au un angajat al carui nume incepe cu litera n data ca parametru
+5. intoarcem primul angajat din compania X care se afla in dep Y

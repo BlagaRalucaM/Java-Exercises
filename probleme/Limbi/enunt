@@ -1,0 +1,4 @@
+Se da un text.
+Vrem sa traducem acest text in 3 limbi diferite printr-o singura metoda care returneaza textul direct tradus.
+
+O sa printam traducerea textului intr-o propozitie concatenate.
